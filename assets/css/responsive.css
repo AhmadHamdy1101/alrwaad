@@ -1,0 +1,371 @@
+
+@media (max-width: 1441px) {
+    /* start home page */
+    /* strat header*/
+
+    .main {
+        margin-top: 110px;
+    }
+
+}
+/* table */
+@media (max-width: 1025px) {
+    /* start home page */
+    /* strat header*/
+    nav a {
+
+        font-size: 0.8rem;
+    
+    }
+    .main {
+        margin-top: 90px;
+    }
+   #translate  {
+        font-size: 0.8rem ;
+    }
+    nav {
+        width: 84%;
+    }
+
+}
+@media (max-width: 820px) {
+    /* start home page */
+    /* strat header*/
+    .openMenu{
+        display: inline-block!important;
+        
+    }
+    header{
+        z-index: 100;
+    }
+
+    nav{
+        position: absolute;
+        flex-direction: column;
+        top: -1103px;
+        left: 0;
+        width: 100%;
+        align-items: center;
+        padding: 7rem 0 26rem 0;
+        z-index: 3;
+        transition: 0.8s all ease-in-out;
+        /*78.83px*/
+    }
+nav a {
+    margin: 1.5rem 0;
+    font-size: 1.5rem;
+}
+#translate {
+    margin: 1.5rem 0;
+    font-size: 1.5rem;
+}
+    /* end header*/
+    /* start slider*/
+    .main{
+        margin-top: 78.83px;
+    }
+    .overlay h1{
+        font-size: 2.5rem;
+        margin-bottom: 0.6rem;
+    }
+    .overlay p{
+        font-size: 2rem;
+        margin-bottom: 0.6rem;
+    }
+    .btn{
+        font-size: 1rem;
+        margin-bottom: 0.6rem;
+    }
+    /* end slider*/
+
+    /* start partner*/
+    .partner .container .eiffa p,  .partner .container .fiata p{
+        width: 311px;
+        font-size: 0.8rem;
+    }
+    /* end partner*/
+    /* start footer*/
+    footer{
+        font-size: 0.8rem;
+    }
+    /* end footer*/
+    /* end home page */
+    /* start services page */
+    .cards{
+        gap: 43px;
+    }
+    .card{
+        width:80%;
+    }
+    /* end services page */
+.contact .container .colm p {
+    font-size: 0.9rem!important;
+}
+.contact .container .colm h3:nth-child(2) {
+    margin-top: 3.66rem;
+}
+.contact .container .colm h3:nth-child(3) {
+    margin-top: 0.5rem;
+}
+.contact .container .colm h3:nth-child(4) {
+    margin-top: 5.2rem;
+}
+.contact .container .colm h3 {
+    font-size: 0.8rem!important;
+}
+.row .colm:first-child {
+    width: 50%;
+}
+.colm {
+margin-right: 0;
+    width: 50%;
+}
+
+.products .container .card {
+    width: 60%;
+}
+
+.fade_right{
+    transform: translateX(-200px);
+    opacity: 0;
+    transition: 1.5s all ease-in-out;
+}
+.faded_right{
+    transform: translateX(0);
+    opacity: 1;
+    
+}
+
+
+/*fade left animation*/
+
+.fade_left{
+    transform: translateX(200px);
+    opacity: 0;
+    transition: 1.5s all ease-in-out;
+}
+.faded_left{
+    transform: translateX(0);
+    opacity: 1;
+    
+}
+
+}
+@media (max-width: 620px) {
+    /* start home page */
+    /* start header */
+    
+    .logo {
+        width: 21%;
+    }
+    .open {
+        top: 11.83px;
+    
+    }
+    nav a {
+    font-size: 0.8rem;
+}
+#translate {
+    margin: 1.5rem 0;
+    font-size: 0.8rem;
+}
+
+    /* end header */
+    /* start slider */
+    .main{
+        margin-top: 82.83px;
+    }
+    .slider {
+
+        height: 335px;
+    }
+    .overlay h1 {
+        font-size: 1.8rem;
+    }
+    .overlay p {
+        font-size: 1.5rem;
+    }
+    .btn{
+        padding: 0.5rem 2rem;
+        font-size: 1rem;
+    }
+    .slides {
+        width: 802%;
+    }
+    /* end slider */
+    /* start partner */
+    .partner .container .eiffa p, .partner .container .fiata p {
+        width: 192px;
+        font-size: 0.5rem;
+    }
+    /* end partner */
+    /* start footer*/
+    footer {
+        font-size: 0.6rem;
+    }
+    /* end footer*/
+    /* End home page */
+        /* start services page */
+
+        .card{
+            width:100%;
+        }
+        /* end services page */
+        /* start Multimodal Transport page */
+        .Multimodal-Transport .container h1{
+            font-size: 2rem;
+        }
+        .Multimodal-Transport .bottom ul li{
+            font-size: 20px;
+        }
+        /* end Multimodal Transport page */
+            /* start about page */
+    .about .container p {
+        font-size: 17px;
+    }
+    .about .container span {
+        font-size: 21px;
+    }
+    .x-logo {
+        width: 70%;
+    }
+    .about .container h1 {
+
+        font-size: 30px;
+    }
+    /* end about page */
+    /*fade left animation*/
+
+
+
+}
+@media (max-width: 426px) {
+    /* start home page */
+    /*start nav*/
+    .open{
+        top: 60.83px;
+    }
+    /*end nav*/
+    /* start slider*/ 
+    .main {
+        margin-top: 78.83px;
+        
+    }
+    .overlay h1 {
+        font-size: 1.5rem;
+    }
+    .overlay p {
+        font-size: 1.3rem;
+    }   
+    .btn {
+        
+        font-size: 0.8rem;
+    }
+    .slides {
+        width: 812%;
+    }
+    nav {
+    top: -983px;
+    }
+.top h1{font-size: 2rem;}
+    /* end slider*/ 
+    /*start partner*/
+    .partner .container .fiata img, .partner .container .eiffa img {
+        width: 98px;
+        
+    }
+    .partner .container .eiffa p, .partner .container .fiata p {
+        width: 187px;
+        
+    }
+    /*end partner*/
+    /* end home page */
+.contact .container .colm p {
+    font-size: 0.9rem!important;
+}
+.contact .container .colm h3:nth-child(2) {
+    margin-top: 7rem;
+}
+.contact .container .colm h3:nth-child(3) {
+    margin-top: 1.8rem;
+}
+.contact .container .colm h3:nth-child(4) {
+    margin-top: 12.1rem;
+}
+.contact .container .colm h3 {
+    font-size: 0.8rem!important;
+}
+.row .colm:first-child {
+    width: 50%;
+}
+.colm {
+margin-right: 0;
+    width: 50%;
+}
+.open {
+    top: -12.170000000000002px;
+}
+
+
+.products .container .card {
+    width: 100%;
+    padding: 2rem 1rem 8rem 2rem;
+}
+
+}
+@media screen and (max-width: 325px) {
+    /* start home page */
+    /*start nav*/
+    nav{
+        padding: 5.2rem 0; 
+    }
+    /*end nav*/
+    /*start slider*/
+    .main {
+        margin-top: 72.83px;
+    }
+    .overlay h1 {
+        font-size: 1.2rem;
+    }
+    .overlay p {
+        font-size: 1rem;
+    }
+    .btn {
+        font-size: 0.7rem;
+        padding: 0.4rem 1.5rem;
+    }
+    /*end slider*/
+    /*start partner*/
+    .partner .container {
+        flex-wrap: wrap;
+    }
+    
+    .partner .container .fiata, .partner .container .eiffa {
+        margin-bottom: 2rem;
+    }
+    /*end partner*/
+    /* end home page */
+            /* start Multimodal Transport page */
+            .Multimodal-Transport .container h1{
+                font-size: 1.5rem;
+            }
+            .Multimodal-Transport .bottom ul li{
+                font-size: 15px;
+            }
+            /* end Multimodal Transport page */
+    .contact .container .colm h3 {
+    font-size: 0.6rem!important;
+    }
+    .contact .container .colm p {
+    font-size: 0.5rem!important;
+}
+.contact .container .colm h3:nth-child(2) {
+    margin-top: 1.7rem;
+}
+.contact .container .colm h3:nth-child(3) {
+    margin-top: 1rem;
+}
+.contact .container .colm h3:nth-child(4) {
+    margin-top: 3.8rem;
+}
+}
