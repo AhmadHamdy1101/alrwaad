@@ -108,7 +108,7 @@ const lang = {
         'products': 'products',
         'about': 'about us',
         'contact': 'contact us',
-        'name': 'Al Rwaad For Cargo & Export',
+        'name': 'AL Rwaad Cargo & Export',
         'motto': 'We Can Transfer Anything',
         'vision': 'our vision',
         'vision_p': 'Our vision to we be the pioneers in the field of transport regionally through the provision of best logistics innovative and effective, which may be required by producers in our country, those types of services which are, in fact, add value to their products raise their competitiveness in world markets, which seek to export it to be done all within a system to ensure high efficiency in execution speed and lowest cost to transport their products from production areas to consumption areas',
@@ -191,7 +191,7 @@ const lang = {
         'emails5': 'air@al-rwaad.com',
         //about page
         
-        'about1': '<span>We, Al Rwaad For Cargo & Export,</span>are a 100% Egyptian company. We started our journey in the Egyptian market in 1999 with a small group of workers who possessed the experience that enabled us today to reach this level and advanced position among the shipping companies operating in the Arab Republic of Egypt. We also, thanks to God, have become members of the International Organization ( FIATA) for Freight Forwarders based in Zurich, International Transportation Services Division based in Alexandria (EIFFA) Thanks to the support of our valued customers, we now have the name that you can rely on to perform with the highest level of attention. We take care of all matters, no matter how simple they seem, to make sure that your shipments reach their final destination in the way you want, in the best way that your customer is satisfied with, and at exactly the right time.',
+        'about1': '<span>We, AL Rwaad Cargo & Export,</span>are a 100% Egyptian company. We started our journey in the Egyptian market in 1999 with a small group of workers who possessed the experience that enabled us today to reach this level and advanced position among the shipping companies operating in the Arab Republic of Egypt. We also, thanks to God, have become members of the International Organization ( FIATA) for Freight Forwarders based in Zurich, International Transportation Services Division based in Alexandria (EIFFA) Thanks to the support of our valued customers, we now have the name that you can rely on to perform with the highest level of attention. We take care of all matters, no matter how simple they seem, to make sure that your shipments reach their final destination in the way you want, in the best way that your customer is satisfied with, and at exactly the right time.',
         'about2': 'Our company has the best team that you can rely on to perform with the highest level of attention. We take care of all matters, no matter how simple they seem, to make sure that your shipments reach their final destination in the image you want, in the optimal manner that your customer is satisfied with, and in a timely manner.',
         'about3': 'We are with you 24 hours a day, 7 days a week',
         'about4': 'Why do you prefer to deal with us?',
